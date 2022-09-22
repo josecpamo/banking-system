@@ -6,7 +6,7 @@ Hi there, this is my personal repository where I'll upload all the projects I've
 
 ## _Banking system on java_
 
-This is my very first project in college, It's about a small banking system on java. Made in the Apache Netbeans IDE 13.0. Everything connected to an actual database, sql server. 
+This is my very first project in college, It's about a small banking system on java. Made in the Apache Netbeans IDE 13.0. Everything connected to an actual database, sql server.
 
 ### *Authors*
 * [José Carlos Paniagua Morales](https://www.linkedin.com/in/josé-carlos-paniagua-morales-2162a6232/)
